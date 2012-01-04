@@ -128,12 +128,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 347388950;
-			PBXWorkspaceStateSaveDate = 347388950;
-		};
-		perUserProjectItems = {
-			4931A6F314B4BC2900AD5206 /* PBXTextBookmark */ = 4931A6F314B4BC2900AD5206 /* PBXTextBookmark */;
-			4987216C14A519DE005FBCAF /* PBXTextBookmark */ = 4987216C14A519DE005FBCAF /* PBXTextBookmark */;
+			PBXPerProjectTemplateStateSaveDate = 347389298;
+			PBXWorkspaceStateSaveDate = 347389298;
 		};
 		sourceControlManager = 49B1BB4B12FB46E5004A9F95 /* Source Control */;
 		userBuildSettings = {
@@ -362,16 +358,6 @@
 			sepNavWindowFrame = "{{15, -1}, {1356, 1174}}";
 		};
 	};
-	4931A6F314B4BC2900AD5206 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 667DAD0C0AB5C14400FB61F3 /* MyController.h */;
-		name = "MyController.h: 62";
-		rLen = 0;
-		rLoc = 2897;
-		rType = 0;
-		vrLen = 1557;
-		vrLoc = 2610;
-	};
 	49676B3B148D31C90006ED5C /* Screen Capture */ = {
 		isa = PBXExecutable;
 		activeArgIndices = (
@@ -397,16 +383,6 @@
 		};
 		sourceDirectories = (
 		);
-	};
-	4987216C14A519DE005FBCAF /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 667DAD0C0AB5C14400FB61F3 /* MyController.h */;
-		name = "MyController.h: 62";
-		rLen = 0;
-		rLoc = 2897;
-		rType = 0;
-		vrLen = 1557;
-		vrLoc = 2610;
 	};
 	49B1BB4B12FB46E5004A9F95 /* Source Control */ = {
 		isa = PBXSourceControlManager;
@@ -540,7 +516,7 @@
 			sepNavIntBoundsRect = "{{0, 0}, {1194, 1610}}";
 			sepNavSelRange = "{2897, 0}";
 			sepNavVisRange = "{2610, 1557}";
-			sepNavWindowFrame = "{{189, 102}, {1253, 1060}}";
+			sepNavWindowFrame = "{{606, 93}, {1253, 1060}}";
 		};
 	};
 	667DAD0D0AB5C14400FB61F3 /* MyController.m */ = {
