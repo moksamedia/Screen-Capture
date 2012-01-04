@@ -1,0 +1,568 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecture = i386;
+		activeBuildConfigurationName = Release;
+		activeExecutable = 49676B3B148D31C90006ED5C /* Screen Capture */;
+		activeTarget = 8D1107260486CEB800E47090 /* Screen Capture */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Screen Capture */,
+		);
+		breakpoints = (
+			49B1BB8812FB4E35004A9F95 /* MyController.m:141 */,
+			49B1BBDE12FB5359004A9F95 /* MyController.m:73 */,
+			49B1BC6B12FB5947004A9F95 /* MyController.m:240 */,
+			49B1BCD112FB687B004A9F95 /* MyController.m:258 */,
+			492EABD71301CD7200BE4ED9 /* MyController.m:212 */,
+			492EABEE1301D2EA00BE4ED9 /* MyController.m:190 */,
+			492EAD51130334F900BE4ED9 /* FrameCompressor.m:277 */,
+			492EADED1303501800BE4ED9 /* FrameMovieExporter.m:239 */,
+			492EAE271303545400BE4ED9 /* FrameCompressor.m:203 */,
+			492EAE2E1303547100BE4ED9 /* FrameCompressor.m:277 */,
+			492EAEA213044B3C00BE4ED9 /* FrameCompressor.m:135 */,
+			492EAEE9130455FA00BE4ED9 /* FrameCompressor.m:487 */,
+			492EAF031304570900BE4ED9 /* MyController.m:112 */,
+			492EAF7F130480C400BE4ED9 /* FrameCompressor.m:424 */,
+			492EAFCD130486C200BE4ED9 /* FrameCompressor.m:333 */,
+		);
+		codeSenseManager = 49B1BB4C12FB46E5004A9F95 /* Code sense */;
+		executables = (
+			49676B3B148D31C90006ED5C /* Screen Capture */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					437,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					928,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					489,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					525,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					888,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 347388950;
+			PBXWorkspaceStateSaveDate = 347388950;
+		};
+		perUserProjectItems = {
+			4931A6F314B4BC2900AD5206 /* PBXTextBookmark */ = 4931A6F314B4BC2900AD5206 /* PBXTextBookmark */;
+			4987216C14A519DE005FBCAF /* PBXTextBookmark */ = 4987216C14A519DE005FBCAF /* PBXTextBookmark */;
+		};
+		sourceControlManager = 49B1BB4B12FB46E5004A9F95 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1194, 932}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2507}";
+			sepNavWindowFrame = "{{130, 8}, {1253, 1060}}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* OpenGLScreenCapture_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1194, 909}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2555}";
+			sepNavWindowFrame = "{{15, 113}, {1253, 1060}}";
+		};
+	};
+	492EABD71301CD7200BE4ED9 /* MyController.m:212 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 667DAD0D0AB5C14400FB61F3 /* MyController.m */;
+		functionName = "-readAndCompressFrames";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 212;
+		location = "Video Capture";
+		modificationTime = 344798596.3256139;
+		state = 2;
+	};
+	492EABEE1301D2EA00BE4ED9 /* MyController.m:190 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 667DAD0D0AB5C14400FB61F3 /* MyController.m */;
+		functionName = "-readAndCompressFrames";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 190;
+		location = "Video Capture";
+		modificationTime = 344798596.325682;
+		state = 2;
+	};
+	492EAD51130334F900BE4ED9 /* FrameCompressor.m:277 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 667DAD010AB5BF4500FB61F3 /* FrameCompressor.m */;
+		functionName = "-compressFrameSynchronized:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 277;
+		location = "Video Capture";
+		modificationTime = 344798596.32575;
+		state = 2;
+	};
+	492EADED1303501800BE4ED9 /* FrameMovieExporter.m:239 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 667DAD030AB5BF4500FB61F3 /* FrameMovieExporter.m */;
+		functionName = "+createSharedMovie:pixelsWide:pixelsHigh:movieTimeScale:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 239;
+		location = "Video Capture";
+		modificationTime = 344798596.325758;
+		state = 2;
+	};
+	492EAE271303545400BE4ED9 /* FrameCompressor.m:203 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 667DAD010AB5BF4500FB61F3 /* FrameCompressor.m */;
+		functionName = "-compressFrameSynchronized:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 203;
+		location = "Video Capture";
+		modificationTime = 344798596.325764;
+		state = 2;
+	};
+	492EAE2E1303547100BE4ED9 /* FrameCompressor.m:277 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 667DAD010AB5BF4500FB61F3 /* FrameCompressor.m */;
+		functionName = "-compressFrameSynchronized:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 277;
+		location = "Video Capture";
+		modificationTime = 344798596.32577;
+		state = 2;
+	};
+	492EAEA213044B3C00BE4ED9 /* FrameCompressor.m:135 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 667DAD010AB5BF4500FB61F3 /* FrameCompressor.m */;
+		functionName = "SourceFrameTrackingCallbackMouse()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 135;
+		location = "Video Capture";
+		modificationTime = 344798596.325776;
+		state = 2;
+	};
+	492EAEE9130455FA00BE4ED9 /* FrameCompressor.m:487 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 667DAD010AB5BF4500FB61F3 /* FrameCompressor.m */;
+		functionName = "+userOptions:frameRate:autosaveName:showDialog:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 487;
+		location = "Video Capture";
+		modificationTime = 344798596.325782;
+		state = 2;
+	};
+	492EAF031304570900BE4ED9 /* MyController.m:112 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 667DAD0D0AB5C14400FB61F3 /* MyController.m */;
+		functionName = "-applicationDidFinishLaunching:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 112;
+		location = "Video Capture";
+		modificationTime = 344798596.325788;
+		state = 2;
+	};
+	492EAF751304803B00BE4ED9 /* Mouse Pointer2.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, -1}, {1356, 1174}}";
+		};
+	};
+	492EAF7F130480C400BE4ED9 /* FrameCompressor.m:424 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 667DAD010AB5BF4500FB61F3 /* FrameCompressor.m */;
+		functionName = "-initWithCodec:pixelsWide:pixelsHigh:options:compressionTimeScale:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 424;
+		location = "Video Capture";
+		modificationTime = 344798596.325864;
+		state = 2;
+	};
+	492EAFCD130486C200BE4ED9 /* FrameCompressor.m:333 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 667DAD010AB5BF4500FB61F3 /* FrameCompressor.m */;
+		functionName = "-compressFrameSynchronized:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 333;
+		location = "Screen Capture";
+		modificationTime = 344798596.615574;
+		state = 0;
+	};
+	492EAFD313048CAC00BE4ED9 /* Mouse-Pointer3.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, -1}, {1356, 1174}}";
+		};
+	};
+	492EB05F1304ACE400BE4ED9 /* Mouse-Pointer3-No-Shadow.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, -1}, {1356, 1174}}";
+		};
+	};
+	492EB0601304ACE400BE4ED9 /* Mouse-Pointer-Yellow.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, -1}, {1356, 1174}}";
+		};
+	};
+	4931A6F314B4BC2900AD5206 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 667DAD0C0AB5C14400FB61F3 /* MyController.h */;
+		name = "MyController.h: 62";
+		rLen = 0;
+		rLoc = 2897;
+		rType = 0;
+		vrLen = 1557;
+		vrLoc = 2610;
+	};
+	49676B3B148D31C90006ED5C /* Screen Capture */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Screen Capture";
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	4987216C14A519DE005FBCAF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 667DAD0C0AB5C14400FB61F3 /* MyController.h */;
+		name = "MyController.h: 62";
+		rLen = 0;
+		rLoc = 2897;
+		rType = 0;
+		vrLen = 1557;
+		vrLoc = 2610;
+	};
+	49B1BB4B12FB46E5004A9F95 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	49B1BB4C12FB46E5004A9F95 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	49B1BB8812FB4E35004A9F95 /* MyController.m:141 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 667DAD0D0AB5C14400FB61F3 /* MyController.m */;
+		functionName = "-stopRecording:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 141;
+		location = OpenGLScreenCapture;
+		modificationTime = 344798596.3252831;
+		state = 2;
+	};
+	49B1BBDE12FB5359004A9F95 /* MyController.m:73 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 667DAD0D0AB5C14400FB61F3 /* MyController.m */;
+		functionName = "-applicationDidFinishLaunching:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 73;
+		location = OpenGLScreenCapture;
+		modificationTime = 344798596.325393;
+		state = 2;
+	};
+	49B1BC6B12FB5947004A9F95 /* MyController.m:240 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 667DAD0D0AB5C14400FB61F3 /* MyController.m */;
+		functionName = "-captureScreenAsMovie:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 240;
+		location = "Video Capture";
+		modificationTime = 344798596.3254811;
+		state = 2;
+	};
+	49B1BCD112FB687B004A9F95 /* MyController.m:258 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 667DAD0D0AB5C14400FB61F3 /* MyController.m */;
+		functionName = "-captureScreenAsMovie:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 258;
+		location = "Video Capture";
+		modificationTime = 344798596.32555;
+		state = 2;
+	};
+	667DAD000AB5BF4500FB61F3 /* FrameCompressor.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1194, 1148}}";
+			sepNavSelRange = "{3376, 0}";
+			sepNavVisRange = "{757, 3181}";
+			sepNavWindowFrame = "{{266, 117}, {1253, 1060}}";
+		};
+	};
+	667DAD010AB5BF4500FB61F3 /* FrameCompressor.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1297, 9156}}";
+			sepNavSelRange = "{16242, 0}";
+			sepNavVisRange = "{15190, 2057}";
+			sepNavWindowFrame = "{{130, 4}, {1356, 1174}}";
+		};
+	};
+	667DAD020AB5BF4500FB61F3 /* FrameMovieExporter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1194, 1008}}";
+			sepNavSelRange = "{3469, 0}";
+			sepNavVisRange = "{110, 3366}";
+			sepNavWindowFrame = "{{283, 118}, {1253, 1060}}";
+		};
+	};
+	667DAD030AB5BF4500FB61F3 /* FrameMovieExporter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1194, 5334}}";
+			sepNavSelRange = "{4816, 0}";
+			sepNavVisRange = "{10337, 1634}";
+			sepNavWindowFrame = "{{340, 118}, {1253, 1060}}";
+		};
+	};
+	667DAD040AB5BF4500FB61F3 /* FrameReader.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1194, 1386}}";
+			sepNavSelRange = "{3571, 16}";
+			sepNavVisRange = "{1693, 2149}";
+			sepNavWindowFrame = "{{439, 118}, {1253, 1060}}";
+		};
+	};
+	667DAD050AB5BF4500FB61F3 /* FrameReader.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1260, 6566}}";
+			sepNavSelRange = "{14314, 13}";
+			sepNavVisRange = "{13789, 2195}";
+			sepNavWindowFrame = "{{201, 29}, {1319, 1149}}";
+		};
+	};
+	667DAD0C0AB5C14400FB61F3 /* MyController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1194, 1610}}";
+			sepNavSelRange = "{2897, 0}";
+			sepNavVisRange = "{2610, 1557}";
+			sepNavWindowFrame = "{{189, 102}, {1253, 1060}}";
+		};
+	};
+	667DAD0D0AB5C14400FB61F3 /* MyController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1342, 4886}}";
+			sepNavSelRange = "{1997, 0}";
+			sepNavVisRange = "{1838, 1936}";
+			sepNavWindowFrame = "{{614, 0}, {1401, 1174}}";
+		};
+	};
+	8D1107260486CEB800E47090 /* Screen Capture */ = {
+		activeExec = 0;
+		executables = (
+			49676B3B148D31C90006ED5C /* Screen Capture */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1194, 932}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 899}";
+			sepNavWindowFrame = "{{38, 92}, {1253, 1060}}";
+		};
+	};
+}

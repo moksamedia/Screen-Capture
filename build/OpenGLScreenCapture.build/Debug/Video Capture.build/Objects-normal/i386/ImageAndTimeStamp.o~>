@@ -1,0 +1,7 @@
+/Users/Andrew/Documents/OpenGLScreenCapture/ImageAndTimeStamp.m: In function '-[ImageAndTimeStamp timeStamp]':
+/Users/Andrew/Documents/OpenGLScreenCapture/ImageAndTimeStamp.m:14: error: 'timeStamp' undeclared (first use in this function)
+/Users/Andrew/Documents/OpenGLScreenCapture/ImageAndTimeStamp.m:14: error: (Each undeclared identifier is reported only once
+/Users/Andrew/Documents/OpenGLScreenCapture/ImageAndTimeStamp.m:14: error: for each function it appears in.)
+/Users/Andrew/Documents/OpenGLScreenCapture/ImageAndTimeStamp.m:14: warning: control reaches end of non-void function
+/Users/Andrew/Documents/OpenGLScreenCapture/ImageAndTimeStamp.m: In function '-[ImageAndTimeStamp setTimeStamp:]':
+/Users/Andrew/Documents/OpenGLScreenCapture/ImageAndTimeStamp.m:15: error: 'timeStamp' undeclared (first use in this function)

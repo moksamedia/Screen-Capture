@@ -1,0 +1,368 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 42;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		492EAF761304803B00BE4ED9 /* Mouse Pointer2.png in Resources */ = {isa = PBXBuildFile; fileRef = 492EAF751304803B00BE4ED9 /* Mouse Pointer2.png */; };
+		492EAFD413048CAC00BE4ED9 /* Mouse-Pointer3.png in Resources */ = {isa = PBXBuildFile; fileRef = 492EAFD313048CAC00BE4ED9 /* Mouse-Pointer3.png */; };
+		492EB0621304ACE400BE4ED9 /* Mouse-Pointer3-No-Shadow.png in Resources */ = {isa = PBXBuildFile; fileRef = 492EB05F1304ACE400BE4ED9 /* Mouse-Pointer3-No-Shadow.png */; };
+		492EB0631304ACE400BE4ED9 /* Mouse-Pointer-Yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = 492EB0601304ACE400BE4ED9 /* Mouse-Pointer-Yellow.png */; };
+		492EB0641304ACE400BE4ED9 /* Mouse-Pointer-Yellow-No-Shadow.png in Resources */ = {isa = PBXBuildFile; fileRef = 492EB0611304ACE400BE4ED9 /* Mouse-Pointer-Yellow-No-Shadow.png */; };
+		49676B13148D30520006ED5C /* screen capture icon.icns in Resources */ = {isa = PBXBuildFile; fileRef = 49676B12148D30520006ED5C /* screen capture icon.icns */; };
+		667DAD060AB5BF4500FB61F3 /* FrameCompressor.m in Sources */ = {isa = PBXBuildFile; fileRef = 667DAD010AB5BF4500FB61F3 /* FrameCompressor.m */; };
+		667DAD070AB5BF4500FB61F3 /* FrameMovieExporter.m in Sources */ = {isa = PBXBuildFile; fileRef = 667DAD030AB5BF4500FB61F3 /* FrameMovieExporter.m */; };
+		667DAD080AB5BF4500FB61F3 /* FrameReader.m in Sources */ = {isa = PBXBuildFile; fileRef = 667DAD050AB5BF4500FB61F3 /* FrameReader.m */; };
+		667DAD0E0AB5C14400FB61F3 /* MyController.m in Sources */ = {isa = PBXBuildFile; fileRef = 667DAD0D0AB5C14400FB61F3 /* MyController.m */; };
+		667DAD810AB5F6F600FB61F3 /* QuickTime.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 667DAD800AB5F6F600FB61F3 /* QuickTime.framework */; };
+		667DAFC50AB60A0900FB61F3 /* Quartz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 667DAFC40AB60A0900FB61F3 /* Quartz.framework */; };
+		667FC6460AE403A500D57597 /* Queue.m in Sources */ = {isa = PBXBuildFile; fileRef = 667FC6430AE403A500D57597 /* Queue.m */; };
+		667FC6470AE403A500D57597 /* QueueController.m in Sources */ = {isa = PBXBuildFile; fileRef = 667FC6450AE403A500D57597 /* QueueController.m */; };
+		8D11072A0486CEB800E47090 /* MainMenu.nib in Resources */ = {isa = PBXBuildFile; fileRef = 29B97318FDCFA39411CA2CEA /* MainMenu.nib */; };
+		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
+		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
+		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+		AF092A430C8464AC00831FD9 /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF092A420C8464AC00831FD9 /* OpenGL.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		089C165DFE840E0CC02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		29B97319FDCFA39411CA2CEA /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/MainMenu.nib; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* OpenGLScreenCapture_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OpenGLScreenCapture_Prefix.pch; sourceTree = "<group>"; };
+		492EAF751304803B00BE4ED9 /* Mouse Pointer2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Mouse Pointer2.png"; sourceTree = "<group>"; };
+		492EAFD313048CAC00BE4ED9 /* Mouse-Pointer3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Mouse-Pointer3.png"; sourceTree = "<group>"; };
+		492EB05F1304ACE400BE4ED9 /* Mouse-Pointer3-No-Shadow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Mouse-Pointer3-No-Shadow.png"; sourceTree = "<group>"; };
+		492EB0601304ACE400BE4ED9 /* Mouse-Pointer-Yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Mouse-Pointer-Yellow.png"; sourceTree = "<group>"; };
+		492EB0611304ACE400BE4ED9 /* Mouse-Pointer-Yellow-No-Shadow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Mouse-Pointer-Yellow-No-Shadow.png"; sourceTree = "<group>"; };
+		49676B12148D30520006ED5C /* screen capture icon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = "screen capture icon.icns"; sourceTree = "<group>"; };
+		49676B3A148D31C90006ED5C /* Screen Capture.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Screen Capture.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		667DAD000AB5BF4500FB61F3 /* FrameCompressor.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = FrameCompressor.h; sourceTree = "<group>"; };
+		667DAD010AB5BF4500FB61F3 /* FrameCompressor.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = FrameCompressor.m; sourceTree = "<group>"; };
+		667DAD020AB5BF4500FB61F3 /* FrameMovieExporter.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = FrameMovieExporter.h; sourceTree = "<group>"; };
+		667DAD030AB5BF4500FB61F3 /* FrameMovieExporter.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = FrameMovieExporter.m; sourceTree = "<group>"; };
+		667DAD040AB5BF4500FB61F3 /* FrameReader.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = FrameReader.h; sourceTree = "<group>"; };
+		667DAD050AB5BF4500FB61F3 /* FrameReader.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = FrameReader.m; sourceTree = "<group>"; };
+		667DAD0C0AB5C14400FB61F3 /* MyController.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = MyController.h; sourceTree = "<group>"; };
+		667DAD0D0AB5C14400FB61F3 /* MyController.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = MyController.m; sourceTree = "<group>"; };
+		667DAD800AB5F6F600FB61F3 /* QuickTime.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuickTime.framework; path = /System/Library/Frameworks/QuickTime.framework; sourceTree = "<absolute>"; };
+		667DAFC40AB60A0900FB61F3 /* Quartz.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Quartz.framework; path = /System/Library/Frameworks/Quartz.framework; sourceTree = "<absolute>"; };
+		667FC6420AE403A500D57597 /* Queue.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = Queue.h; sourceTree = "<group>"; };
+		667FC6430AE403A500D57597 /* Queue.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = Queue.m; sourceTree = "<group>"; };
+		667FC6440AE403A500D57597 /* QueueController.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = QueueController.h; sourceTree = "<group>"; };
+		667FC6450AE403A500D57597 /* QueueController.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = QueueController.m; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		AF092A420C8464AC00831FD9 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = /System/Library/Frameworks/OpenGL.framework; sourceTree = "<absolute>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8D11072E0486CEB800E47090 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
+				667DAD810AB5F6F600FB61F3 /* QuickTime.framework in Frameworks */,
+				667DAFC50AB60A0900FB61F3 /* Quartz.framework in Frameworks */,
+				AF092A430C8464AC00831FD9 /* OpenGL.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				667DAD0C0AB5C14400FB61F3 /* MyController.h */,
+				667DAD0D0AB5C14400FB61F3 /* MyController.m */,
+				661AD83F0AE581BB00489D1C /* Screen Reader */,
+				AFA7B25B0AE2AA9D000202C3 /* Exporter-Compressor */,
+				AFA581BC0AE1BD0000D6AE1A /* Queue Utils */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AF092A420C8464AC00831FD9 /* OpenGL.framework */,
+				667DAFC40AB60A0900FB61F3 /* Quartz.framework */,
+				667DAD800AB5F6F600FB61F3 /* QuickTime.framework */,
+				1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7A2FEA54F0111CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				49676B3A148D31C90006ED5C /* Screen Capture.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* OpenGLScreenCapture */ = {
+			isa = PBXGroup;
+			children = (
+				49676B12148D30520006ED5C /* screen capture icon.icns */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = OpenGLScreenCapture;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				29B97316FDCFA39411CA2CEA /* main.m */,
+				32CA4F630368D1EE00C91783 /* OpenGLScreenCapture_Prefix.pch */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				492EB05F1304ACE400BE4ED9 /* Mouse-Pointer3-No-Shadow.png */,
+				492EB0601304ACE400BE4ED9 /* Mouse-Pointer-Yellow.png */,
+				492EB0611304ACE400BE4ED9 /* Mouse-Pointer-Yellow-No-Shadow.png */,
+				492EAFD313048CAC00BE4ED9 /* Mouse-Pointer3.png */,
+				492EAF751304803B00BE4ED9 /* Mouse Pointer2.png */,
+				8D1107310486CEB800E47090 /* Info.plist */,
+				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
+				29B97318FDCFA39411CA2CEA /* MainMenu.nib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */,
+				1058C7A2FEA54F0111CA2CBB /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		661AD83F0AE581BB00489D1C /* Screen Reader */ = {
+			isa = PBXGroup;
+			children = (
+				667DAD040AB5BF4500FB61F3 /* FrameReader.h */,
+				667DAD050AB5BF4500FB61F3 /* FrameReader.m */,
+			);
+			name = "Screen Reader";
+			sourceTree = "<group>";
+		};
+		AFA581BC0AE1BD0000D6AE1A /* Queue Utils */ = {
+			isa = PBXGroup;
+			children = (
+				667FC6420AE403A500D57597 /* Queue.h */,
+				667FC6430AE403A500D57597 /* Queue.m */,
+				667FC6440AE403A500D57597 /* QueueController.h */,
+				667FC6450AE403A500D57597 /* QueueController.m */,
+			);
+			name = "Queue Utils";
+			sourceTree = "<group>";
+		};
+		AFA7B25B0AE2AA9D000202C3 /* Exporter-Compressor */ = {
+			isa = PBXGroup;
+			children = (
+				667DAD020AB5BF4500FB61F3 /* FrameMovieExporter.h */,
+				667DAD030AB5BF4500FB61F3 /* FrameMovieExporter.m */,
+				667DAD000AB5BF4500FB61F3 /* FrameCompressor.h */,
+				667DAD010AB5BF4500FB61F3 /* FrameCompressor.m */,
+			);
+			name = "Exporter-Compressor";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8D1107260486CEB800E47090 /* Screen Capture */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "Screen Capture" */;
+			buildPhases = (
+				8D1107290486CEB800E47090 /* Resources */,
+				8D11072C0486CEB800E47090 /* Sources */,
+				8D11072E0486CEB800E47090 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Screen Capture";
+			productInstallPath = "$(HOME)/Applications";
+			productName = OpenGLScreenCapture;
+			productReference = 49676B3A148D31C90006ED5C /* Screen Capture.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "OpenGLScreenCapture" */;
+			compatibilityVersion = "Xcode 2.4";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* OpenGLScreenCapture */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8D1107260486CEB800E47090 /* Screen Capture */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8D1107290486CEB800E47090 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072A0486CEB800E47090 /* MainMenu.nib in Resources */,
+				8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */,
+				492EAF761304803B00BE4ED9 /* Mouse Pointer2.png in Resources */,
+				492EAFD413048CAC00BE4ED9 /* Mouse-Pointer3.png in Resources */,
+				492EB0621304ACE400BE4ED9 /* Mouse-Pointer3-No-Shadow.png in Resources */,
+				492EB0631304ACE400BE4ED9 /* Mouse-Pointer-Yellow.png in Resources */,
+				492EB0641304ACE400BE4ED9 /* Mouse-Pointer-Yellow-No-Shadow.png in Resources */,
+				49676B13148D30520006ED5C /* screen capture icon.icns in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8D11072C0486CEB800E47090 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072D0486CEB800E47090 /* main.m in Sources */,
+				667DAD060AB5BF4500FB61F3 /* FrameCompressor.m in Sources */,
+				667DAD070AB5BF4500FB61F3 /* FrameMovieExporter.m in Sources */,
+				667DAD080AB5BF4500FB61F3 /* FrameReader.m in Sources */,
+				667DAD0E0AB5C14400FB61F3 /* MyController.m in Sources */,
+				667FC6460AE403A500D57597 /* Queue.m in Sources */,
+				667FC6470AE403A500D57597 /* QueueController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		089C165CFE840E0CC02AAC07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				089C165DFE840E0CC02AAC07 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		29B97318FDCFA39411CA2CEA /* MainMenu.nib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				29B97319FDCFA39411CA2CEA /* English */,
+			);
+			name = MainMenu.nib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C01FCF4B08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = "Screen Capture";
+				WRAPPER_EXTENSION = app;
+				ZERO_LINK = YES;
+			};
+			name = Debug;
+		};
+		C01FCF4C08A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = (
+					ppc,
+					i386,
+				);
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_MODEL_TUNING = G5;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = "Screen Capture";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = /Developer/SDKs/MacOSX10.4u.sdk;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = (
+					ppc,
+					i386,
+				);
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = /Developer/SDKs/MacOSX10.4u.sdk;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "Screen Capture" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4B08A954540054247B /* Debug */,
+				C01FCF4C08A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "OpenGLScreenCapture" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
